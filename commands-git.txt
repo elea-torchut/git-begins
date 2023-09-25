@@ -3,7 +3,7 @@ cloner un repository
 3 commandes de push*
 	git add <nom du fichier>
 	git commit -m "commentaire"
-	git push (git push origin main)
+	git push
 commande pull
 	git pull <nom_du_dépôt_remote> <branche_distante>
 création de branche
