@@ -4,6 +4,8 @@ cloner un repository
 	git add <nom du fichier>
 	git commit -m "commentaire"
 	git push (git push origin main)
+commande pull
+	git pull <nom_du_dépôt_remote> <branche_distante>
 créer une branche
 	git chechout -b <nom de la branche>
 switch 
