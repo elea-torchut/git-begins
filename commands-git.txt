@@ -4,3 +4,7 @@ cloner un repository
 	git add <nom du fichier>
 	git commit -m "commentaire"
 	git push (git push origin main)
+créer une branche
+	git chechout -b <nom de la branche>
+switch 
+	git chechout <nom de la branche>
