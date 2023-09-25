@@ -6,3 +6,7 @@ cloner un repository
 	git push (git push origin main)
 commande pull
 	git pull <nom_du_dépôt_remote> <branche_distante>
+création de branche
+	git checkout -b <nom_de_la_branche>
+switcher de branche 
+	git checkout <nom_de_la_branche>
