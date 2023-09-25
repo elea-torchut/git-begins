@@ -1,0 +1,6 @@
+cloner un repository
+	git clone <URL>
+3 commandes de push*
+	git add <nom du fichier>
+	git commit -m "commentaire"
+	git push (git push origin main)
